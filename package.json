@@ -1,0 +1,26 @@
+{
+  "name": "defender-game",
+  "version": "1.0.0",
+  "description": "\"Browser based game\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VMoiseev/Esm.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "VMoiseev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VMoiseev/Esm/issues"
+  },
+  "homepage": "https://github.com/VMoiseev/Esm#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
